@@ -21,299 +21,380 @@ Node.js version : v16.15.1
 
 Operating system : macOS Big Sur
 
-[15:20:23] No configuration file found, switching to CLI flags.
-[15:20:23] Using tsconfig file : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.browserslistrc
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.editorconfig
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.gitignore
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/LICENSE
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/README.md
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/angular.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/build-storybook.log
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/documentation.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest.config.js
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.DS_Store
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/package-lock.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.app.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/package.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.spec.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/main.js
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/preview.js
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/tsconfig.json
-[15:20:23] Ignoring       : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/typings.d.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/.DS_Store
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/setup.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/favicon.ico
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/main.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/polyfills.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/styles.css
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/index.html
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/.DS_Store
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/fileMock.js
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/.DS_Store
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/styleMock.js
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.css
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.html
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.module.ts
-[15:20:23] Ignoring       : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.spec.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/.gitkeep
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.prod.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Button.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Header.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Introduction.stories.mdx
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/User.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Page.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.css
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.css
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.css
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/inbox-screen.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.component.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.module.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.stories.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/models/task.model.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/state/task.state.ts
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.eot
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.woff
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.eot
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.ttf
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.woff
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/code-brackets.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/colors.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/comments.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/direction.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/flow.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/plugin.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/repo.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/stackalt.svg
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0263c206184d6d54c8157ecb3a5c63f8.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/02cb23a09f8bd037c31e65f5e037ac49.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/03ad0ed63a321ee22b8450b31c7e3796.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/06601125dc2715bec8d58c0202c9311e.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0a047e143f4528b13870d86ef2c9e331.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0e7eabb7b4cc5612037f52c91106b745.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0cc44afc2fad438442f86e013c707c03.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0f13088c0a8b3eafd0d8f0aa6cbe72a3.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/1963a7936c947faeb874df3f5a1f4566.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2065d48a0a8474e760634678954341bd.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/20cfe897fa4775e45c4286c3e818f3c6.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/240aa0d18763e3df2c18a001c02aefe5.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2564b2237c9551b1c87220af6c713442.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/25ca386353c402b5c5ef5295ce1d3fac.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/25ec36c080b33b7686bba4ca6aa15ef5.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2cba0056ebdadc0abad4a671c8b8ee40.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2ca699ac2a0870c564c2627b8ff1d6c1.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2f182ceba8cd1077d00b3f57709a3aef.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2fc7304fc74d53380d6e04c80df56026.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/30b96648b1391f9ac0af3f30a693741f.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/39c69510d5d40f7e8aad117200a42448.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3f090ae6647a652a3f9c401ff93403d8.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/40c3c43cdd466fcf49a1a51268748f21.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/42c7e0b57729e7448c12fa452c561565.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/44b3abb8e6bdfecc8781e66417c558dc.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/47d18fb87c68e431a17166f0d5729b75.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4afb66950be2ad2a610c3b7be3c5d19b.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4bb0bb3a46031b740315eb7c161b5354.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/51703a6961915b7d4b49af121a93e788.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/538fcc55a30e8759b5f1bc895aeef050.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3477cb018ed2c05a0d71e3a6afcd406c.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/552514b32c155efe7eb5dbbcebebe77e.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/559ea711ba689103ca7c23da56ef4069.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/566e3a0a627ba7bc78e0786a7503f4d8.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/58fca0661fc18c1700791f496282b448.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5ed55067c590ced2422859fc1627f0ba.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6153204d107364fefbc7dfccefbcac12.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5f90488b163a83a7be8ab35559f37324.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6bdabbffdfbc17d04dd68b900145e126.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7b40066ff7efda2e38cbfdebe51ea95c.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7d6152b7fab683157c4fce1193ef1697.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7d7377675c51efd7b1546ad0d422e284.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7e613017438ec8db784d54bbbdbfe8a0.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7ee9892d9e368997d146f27c93b1c0b5.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7f3492f809f9e727473e6c2ef7cbe3ea.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/8031f4503bb03d8e5474dee217a02870.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/88d43fbc6479ae0a1e0833a74c90a1d1.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/8f602429d471f05f52d4b4c1fc76cf29.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/907f98592c01673e979416dac5183086.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9700cef6da21cac2d207951ef32d182e.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9ba2834cfad6983ce14b075a6233529d.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a4e15d76104230c499dc1494390be9d9.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/96ca442766bf5d06c7dc1c1c537279bb.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9a103bb54be688f1b38df2c2013000c6.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a66d7fc21d85da155673c17adfdfa835.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/add1dc889cf00d96573887688ff226e9.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b86a38162dbc13226219b0e9fb152a00.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b08127dbf280e42a876641bd69cec100.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b8b73704b39611e62c0013997a478115.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ba8d9da615c77e8d6c1299518a8bc19e.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bde96d96938ab718047517949247d90f.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/be294022284204bd1cb90a2314c0e5e3.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bf484892ca5c6ca26e9ceb41c7b34133.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c6d3520bb66880dfebe146fa1368e6db.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c7bfd86cf6c73e35d81d6d0632050e21.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/cb4a60f87646fbe47a8dfc95713db356.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ce43962cbb4d6607ba5487dc149c5073.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e6ee0e824e851aeed54fb9c7cba16735.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e71979b7135955f1e8c9ea7f323b55dc.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/d418ff1439701ce97305a82e4df748a5.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ec21242cab6fd90e4db87f2a9965a10b.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ec930fddc79bc72eda0a5c93ab67284d.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/eebd0588bce5a5685394cc52da10de25.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f32429a80a9d0978eaf40b35c992407a.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f52c6c8467be30b0ac90bbf7aa885585.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f91696788460d498b3c79517a70c2e90.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/fdb2ca8bd689f0ced59552f55d3fe25c.json
-[15:20:23] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ffd48e95e688d90af4bf85edbf165056.json
-[15:20:23] Searching package.json file
-[15:20:23] package.json file found
-[15:20:23] Processing package.json dependencies
-[15:20:23] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[15:20:23] README.md file found
-[15:20:23] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/CHANGELOG read
-[15:20:23] Continuing without CHANGELOG.md file
-[15:20:23] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/CONTRIBUTING read
-[15:20:23] Continuing without CONTRIBUTING.md file
-[15:20:23] LICENSE.md file found
-[15:20:23] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/TODO read
-[15:20:23] Continuing without TODO.md file
-[15:20:23] Get dependencies data
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/setup.ts
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/main.ts
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/polyfills.ts
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.ts
-[15:20:23] found          : AppComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.module.ts
-[15:20:23] found          : AppModule
-[15:20:23]                : - imports:
-[15:20:23]                : 	- BrowserModule
-[15:20:23]                : 	- TaskModule
-[15:20:23]                : 	- NgxsModule
-[15:20:23]                : 	- NgxsReduxDevtoolsPluginModule
-[15:20:23]                : 	- NgxsLoggerPluginModule
-[15:20:23]                : - declarations:
-[15:20:23]                : 	- AppComponent
-[15:20:23]                : 	- InboxScreenComponent
-[15:20:23]                : 	- PureInboxScreenComponent
-[15:20:23]                : - bootstrap:
-[15:20:23]                : 	- AppComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.prod.ts
-[15:20:23] found          : environment
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.ts
-[15:20:23] found          : environment
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Button.stories.ts
-[15:20:23] found          : Template
-[15:20:23] found          : Primary
-[15:20:23] found          : Secondary
-[15:20:23] found          : Large
-[15:20:23] found          : Small
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Header.stories.ts
-[15:20:23] found          : Template
-[15:20:23] found          : LoggedIn
-[15:20:23] found          : LoggedOut
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/User.ts
-[15:20:23] found          : User
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Page.stories.ts
-[15:20:23] found          : Template
-[15:20:23] found          : LoggedOut
-[15:20:23] found          : LoggedIn
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.component.ts
-[15:20:23] found          : ButtonComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.component.ts
-[15:20:23] found          : HeaderComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.component.ts
-[15:20:23] found          : PageComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/inbox-screen.component.ts
-[15:20:23] found          : InboxScreenComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
-[15:20:23] found          : PureInboxScreenComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[15:20:23] found          : Template
-[15:20:23] found          : Default
-[15:20:23] found          : Error
-[15:20:23] found          : WithInteractions
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.component.ts
-[15:20:23] found          : PureTaskListComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
-[15:20:23] found          : Template
-[15:20:23] found          : Default
-[15:20:23] found          : WithPinnedTasks
-[15:20:23] found          : Loading
-[15:20:23] found          : Empty
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component.ts
-[15:20:23] found          : TaskListComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.component.ts
-[15:20:23] found          : TaskComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.module.ts
-[15:20:23] found          : TaskModule
-[15:20:23]                : - imports:
-[15:20:23]                : 	- CommonModule
-[15:20:23]                : 	- NgxsModule
-[15:20:23]                : - exports:
-[15:20:23]                : 	- TaskComponent
-[15:20:23]                : 	- TaskListComponent
-[15:20:23]                : - declarations:
-[15:20:23]                : 	- TaskComponent
-[15:20:23]                : 	- TaskListComponent
-[15:20:23]                : 	- PureTaskListComponent
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.stories.ts
-[15:20:23] found          : actionsData
-[15:20:23] found          : Template
-[15:20:23] found          : Default
-[15:20:23] found          : Pinned
-[15:20:23] found          : Archived
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/models/task.model.ts
-[15:20:23] found          : Task
-[15:20:23] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/state/task.state.ts
-[15:20:23] found          : actions
-[15:20:23] found          : ArchiveTask
-[15:20:23] found          : PinTask
-[15:20:23] found          : AppError
-[15:20:23] found          : defaultTasks
-[15:20:23] found          : TaskStateModel
-[15:20:23] found          : TasksState
-[15:20:23] -------------------
-[15:20:23] Project statistics 
-[15:20:23] - files      : 157
-[15:20:23] - module     : 2
-[15:20:23] - component  : 9
-[15:20:23] - injectable : 1
-[15:20:23] - class      : 3
-[15:20:23] - interface  : 3
-[15:20:23] -------------------
-[15:20:23] Prepare components
-[15:20:23]  ButtonComponent has styleUrls, include them
-[15:20:23]  HeaderComponent has styleUrls, include them
-[15:20:23]  PageComponent has styleUrls, include them
-[15:20:23] Prepare modules
-[15:20:23] Prepare injectables
-[15:20:23] Prepare classes
-[15:20:23] Prepare interfaces
-[15:20:23] Prepare miscellaneous
-[15:20:23] Process documentation coverage report
-[15:20:23] Generating documentation in export format json
-[15:20:23] Documentation generated in ./ in 0.482 seconds
+[09:33:56] No configuration file found, switching to CLI flags.
+[09:33:56] Using tsconfig file : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.editorconfig
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.gitignore
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/LICENSE
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/README.md
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/angular.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/build-storybook.log
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/documentation.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.DS_Store
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.browserslistrc
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest.config.js
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/package.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/package-lock.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.app.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/tsconfig.spec.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/.DS_Store
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.github/.DS_Store
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/preview.js
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/main.js
+[09:33:56] Ignoring       : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/typings.d.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.storybook/tsconfig.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/setup.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/.DS_Store
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/favicon.ico
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/main.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/index.html
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/polyfills.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/styles.css
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/fileMock.js
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.github/workflows/chromatic.yml
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/styleMock.js
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/.DS_Store
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.css
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.html
+[09:33:56] Ignoring       : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.spec.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.module.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/.gitkeep
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.prod.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Button.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Header.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Introduction.stories.mdx
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Page.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/User.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.css
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.css
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.css
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component copy.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.component.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.module.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.stories.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/state/task.state.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/models/task.model.ts
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.eot
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.ttf
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/assets/icon/percolate.woff
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/code-brackets.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/colors.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/direction.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/flow.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/plugin.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/comments.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/repo.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/assets/stackalt.svg
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/017567a6404365010ead3368efb02e44.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0263c206184d6d54c8157ecb3a5c63f8.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/02cb23a09f8bd037c31e65f5e037ac49.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/04370feb85d14e9fbf1588c8dd4a12b6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/06601125dc2715bec8d58c0202c9311e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/03ad0ed63a321ee22b8450b31c7e3796.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/08d3d7407dec15315d123df58fba6e2d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0a047e143f4528b13870d86ef2c9e331.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0aefa71755b396a27e0f1f2c9e833783.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0cc44afc2fad438442f86e013c707c03.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0e7eabb7b4cc5612037f52c91106b745.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/0f13088c0a8b3eafd0d8f0aa6cbe72a3.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/10078ee0aefae746c74453aba31e0b49.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/118d1b5b811976c59e977e1a0d028a43.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/12fac5ba7f8c1b572428d5f8b7c84ee3.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/1348316173a6ce8a33aea4c6964cda6a.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/1805eb73ac08ccf1b6e520d308f7ac5a.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/1963a7936c947faeb874df3f5a1f4566.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2065d48a0a8474e760634678954341bd.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/20cfe897fa4775e45c4286c3e818f3c6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/240aa0d18763e3df2c18a001c02aefe5.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/246c189d4fe3e85bc53948879d1410a9.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2564b2237c9551b1c87220af6c713442.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/25ca386353c402b5c5ef5295ce1d3fac.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/25ec36c080b33b7686bba4ca6aa15ef5.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2640503b9fc37471ba34350c7c95b0e2.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/27d29a1d186ce32349f7e6b24fc639cf.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2ca630ed976bbce14fccde316cf0c45c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2ca699ac2a0870c564c2627b8ff1d6c1.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2cba0056ebdadc0abad4a671c8b8ee40.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2f182ceba8cd1077d00b3f57709a3aef.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/004e44b9a22025ab05bbe96c6b5785f6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/2fc7304fc74d53380d6e04c80df56026.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/30b96648b1391f9ac0af3f30a693741f.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3477cb018ed2c05a0d71e3a6afcd406c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/39c69510d5d40f7e8aad117200a42448.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3aa171c08aef0fc03048cea06cf21dd6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3ab6b609bf8166784a6350f5a5135c5d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3cc021037b156435aa6bf716d0e2bdfd.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3cf6ad403041254db8fa5bf655fc7f79.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/3f090ae6647a652a3f9c401ff93403d8.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/40c3c43cdd466fcf49a1a51268748f21.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/42c7e0b57729e7448c12fa452c561565.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/44b3abb8e6bdfecc8781e66417c558dc.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/47d18fb87c68e431a17166f0d5729b75.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4a55a90ad23987d81521fffcab01edd6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4afb66950be2ad2a610c3b7be3c5d19b.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4bb0bb3a46031b740315eb7c161b5354.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4c92125a446fc4dc4351f32e577868b0.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/4ef6ede6cb50177e6923c63d20209405.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/50e601fbf894a014ec5db4d9b4169b5d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/51703a6961915b7d4b49af121a93e788.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5312237d2c281768f1b70d630dd64421.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/538fcc55a30e8759b5f1bc895aeef050.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/552514b32c155efe7eb5dbbcebebe77e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/559ea711ba689103ca7c23da56ef4069.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/566e3a0a627ba7bc78e0786a7503f4d8.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/58fca0661fc18c1700791f496282b448.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5df8ba4eac8cb4c5a981dffaeebba646.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5bc97ac79ce8bea9404a8ee19438c597.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5ed55067c590ced2422859fc1627f0ba.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/5f90488b163a83a7be8ab35559f37324.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6153204d107364fefbc7dfccefbcac12.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/623c756545eef1544393a84da64509d2.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6450a4bb07e6a83ff2eb3ad67fbb0f36.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/66c383cf33ec3cd93c802831d8a198ba.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6bdabbffdfbc17d04dd68b900145e126.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/6cb7b77d1fc279de65cb3bdfc0c8284d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/71cc8cc39121aa73ef1d9c2a286c004f.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/73d34ac7ef2f4c51cd854bbeffb66012.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/747b270ae350d4199d65a8768378d2a5.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/750ba397de38d575be5d2e830fe10db8.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7b40066ff7efda2e38cbfdebe51ea95c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7d6152b7fab683157c4fce1193ef1697.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7d7377675c51efd7b1546ad0d422e284.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7df303b35b45cd491b63930c86a3cab6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7e613017438ec8db784d54bbbdbfe8a0.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7ee9892d9e368997d146f27c93b1c0b5.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7f3492f809f9e727473e6c2ef7cbe3ea.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/7f7a0f2feb057a0e16c73d62299b9f6e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/8031f4503bb03d8e5474dee217a02870.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/8819a692e2a56d83c5b246e78027d511.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/8f602429d471f05f52d4b4c1fc76cf29.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/855a86e13d06a7792370c58cc1923f71.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/907f98592c01673e979416dac5183086.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/917fc02571209968bbfef91c47f459c1.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/88d43fbc6479ae0a1e0833a74c90a1d1.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/925ad130ddb0c497c14fe91968a43e9d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/94710153111870703783f421ae751df1.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/95f9e659de8fce7f9015781993726725.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/96ca442766bf5d06c7dc1c1c537279bb.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9700cef6da21cac2d207951ef32d182e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/97746f746f9a84e8761b4af6b8f1502c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/97693b0c32a50fc88a30691eaa26a0fa.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9a103bb54be688f1b38df2c2013000c6.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9a7023875ca8881e106b8882250ea62e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9ba2834cfad6983ce14b075a6233529d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/9fde6ce16e3744f764ae05deb46351b7.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a1b58e472182944aea39f9f88f9206f0.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a4e15d76104230c499dc1494390be9d9.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a66d5f5ae5e7cf6292173904a9914969.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a66d7fc21d85da155673c17adfdfa835.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/a878187484d20f72fe93640c2b7710ae.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ac4fb70fba44cfc660318d3b193050aa.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ac5b77068269175a4b4c7378e685f33f.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/add1dc889cf00d96573887688ff226e9.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b08127dbf280e42a876641bd69cec100.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b317c86971d92bb4217cf51fc214f33c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b528f80093b3d693c81b60f366ca7767.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b86a38162dbc13226219b0e9fb152a00.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b8b73704b39611e62c0013997a478115.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/b9dc9b00becd8501454e8b175c3748ab.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ba8d9da615c77e8d6c1299518a8bc19e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bb847b9d273235b4db80c5e4eacf0033.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bc52c52a8a76f99aed7546ecd9ca8ff3.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bde96d96938ab718047517949247d90f.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/be294022284204bd1cb90a2314c0e5e3.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/bf484892ca5c6ca26e9ceb41c7b34133.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c3182311f66a1067532717d85e772396.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/be85a7230634ecad74dffae29dfa72ba.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c5d65429ebca3bae1cc989987907c565.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c130f77a446132226ed69152016e77ab.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c5e4138dc60ba4055a2612d82b7cf082.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c5ee9283f8310ab24f5200d544bf5276.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c6474e0086c9f48662c59388f2b3a84b.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c6d3520bb66880dfebe146fa1368e6db.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c6fbb7c107c56f933fe5401325ae193c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/c7bfd86cf6c73e35d81d6d0632050e21.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/cb1590a04b999129bf252b4cdf16bcca.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/cb4a60f87646fbe47a8dfc95713db356.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ce43962cbb4d6607ba5487dc149c5073.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/d418ff1439701ce97305a82e4df748a5.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/d7b4aa803c865a22317392eb30d36a9e.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/d89db8194721dc28c315ca3e9b4b5a82.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ddf9d941c94d3b802405951e5d2ea6c1.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/dee0237659f5cccc45fbcdd1b1bd523a.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e417c4c210d023b31e24597d8766010d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e71979b7135955f1e8c9ea7f323b55dc.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e6ee0e824e851aeed54fb9c7cba16735.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/e8d3f05649a49b63a1796ff2dd62d19f.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ea369cfe5cd4ea1c2b94bf3c7a58d9c0.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ec21242cab6fd90e4db87f2a9965a10b.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ec930fddc79bc72eda0a5c93ab67284d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ecb9485d0139f3ef5cf8c88b97a58a16.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/edbb2c5eb149cf35bc187c68a3eb7347.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/eebd0588bce5a5685394cc52da10de25.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ef4bb44162934d998183282555fca067.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f32429a80a9d0978eaf40b35c992407a.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f52c6c8467be30b0ac90bbf7aa885585.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f91696788460d498b3c79517a70c2e90.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/f9ebfba44cb3369e53a9bebaf6d6912d.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/fdb2ca8bd689f0ced59552f55d3fe25c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/fc07e805dc244ea9280cd6ee25f73d2c.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ff31e4044b55e5a3d31ebff10c518305.json
+[09:33:56] Including      : /Users/bulksms-rorrick/Documents/Storybook/taskbox/.angular/cache/13.3.7/babel-webpack/ffd48e95e688d90af4bf85edbf165056.json
+[09:33:56] Searching package.json file
+[09:33:56] package.json file found
+[09:33:56] Processing package.json dependencies
+[09:33:56] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[09:33:56] README.md file found
+[09:33:56] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/CHANGELOG read
+[09:33:56] Continuing without CHANGELOG.md file
+[09:33:56] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/CONTRIBUTING read
+[09:33:56] Continuing without CONTRIBUTING.md file
+[09:33:56] LICENSE.md file found
+[09:33:56] Error during /Users/bulksms-rorrick/Documents/Storybook/taskbox/TODO read
+[09:33:56] Continuing without TODO.md file
+[09:33:56] Get dependencies data
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/setup.ts
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/main.ts
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/polyfills.ts
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.module.ts
+[09:33:56] found          : AppModule
+[09:33:56]                : - imports:
+[09:33:56]                : 	- BrowserModule
+[09:33:56]                : 	- TaskModule
+[09:33:56]                : 	- NgxsModule
+[09:33:56]                : 	- NgxsReduxDevtoolsPluginModule
+[09:33:56]                : 	- NgxsLoggerPluginModule
+[09:33:56]                : - declarations:
+[09:33:56]                : 	- AppComponent
+[09:33:56]                : 	- InboxScreenComponent
+[09:33:56]                : 	- PureInboxScreenComponent
+[09:33:56]                : - bootstrap:
+[09:33:56]                : 	- AppComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.ts
+[09:33:56] found          : AppComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.prod.ts
+[09:33:56] found          : environment
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.ts
+[09:33:56] found          : environment
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Button.stories.ts
+[09:33:56] found          : Template
+[09:33:56] found          : Primary
+[09:33:56] found          : Secondary
+[09:33:56] found          : Large
+[09:33:56] found          : Small
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Header.stories.ts
+[09:33:56] found          : Template
+[09:33:56] found          : LoggedIn
+[09:33:56] found          : LoggedOut
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/Page.stories.ts
+[09:33:56] found          : Template
+[09:33:56] found          : LoggedOut
+[09:33:56] found          : LoggedIn
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/User.ts
+[09:33:56] found          : User
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/button.component.ts
+[09:33:56] found          : ButtonComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/header.component.ts
+[09:33:56] found          : HeaderComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/stories/page.component.ts
+[09:33:56] found          : PageComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[09:33:56] found          : PureInboxScreenComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[09:33:56] found          : InboxScreenComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[09:33:56] found          : Template
+[09:33:56] found          : Default
+[09:33:56] found          : Error
+[09:33:56] found          : WithInteractions
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[09:33:56] found          : PureTaskListComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[09:33:56] found          : Template
+[09:33:56] found          : Default
+[09:33:56] found          : WithPinnedTasks
+[09:33:56] found          : Loading
+[09:33:56] found          : Empty
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component copy.ts
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component.ts
+[09:33:56] found          : TaskListComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.component.ts
+[09:33:56] found          : TaskComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.module.ts
+[09:33:56] found          : TaskModule
+[09:33:56]                : - imports:
+[09:33:56]                : 	- CommonModule
+[09:33:56]                : 	- NgxsModule
+[09:33:56]                : - exports:
+[09:33:56]                : 	- TaskComponent
+[09:33:56]                : 	- TaskListComponent
+[09:33:56]                : - declarations:
+[09:33:56]                : 	- TaskComponent
+[09:33:56]                : 	- TaskListComponent
+[09:33:56]                : 	- PureTaskListComponent
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task.stories.ts
+[09:33:56] found          : actionsData
+[09:33:56] found          : Template
+[09:33:56] found          : Default
+[09:33:56] found          : Pinned
+[09:33:56] found          : Archived
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/state/task.state.ts
+[09:33:56] found          : actions
+[09:33:56] found          : ArchiveTask
+[09:33:56] found          : PinTask
+[09:33:56] found          : AppError
+[09:33:56] found          : defaultTasks
+[09:33:56] found          : TaskStateModel
+[09:33:56] found          : TasksState
+[09:33:56] parsing        : /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/models/task.model.ts
+[09:33:56] found          : Task
+[09:33:56] -------------------
+[09:33:56] Project statistics 
+[09:33:56] - files      : 237
+[09:33:56] - module     : 2
+[09:33:56] - component  : 9
+[09:33:56] - injectable : 1
+[09:33:56] - class      : 3
+[09:33:56] - interface  : 3
+[09:33:56] -------------------
+[09:33:56] Prepare components
+[09:33:56]  ButtonComponent has styleUrls, include them
+[09:33:56]  HeaderComponent has styleUrls, include them
+[09:33:56]  PageComponent has styleUrls, include them
+[09:33:56] Prepare modules
+[09:33:56] Prepare injectables
+[09:33:56] Prepare classes
+[09:33:56] Prepare interfaces
+[09:33:56] Prepare miscellaneous
+[09:33:56] Process documentation coverage report
+[09:33:56] Generating documentation in export format json
+[09:33:56] Documentation generated in ./ in 0.508 seconds
 info @storybook/angular v6.5.7
 info 
-info => Cleaning outputDir: /var/folders/z5/3hqjs09j46l_d3k3rbm2g4b40000gn/T/chromatic--14253-BS3V5F44obnL
+info => Cleaning outputDir: /var/folders/z5/3hqjs09j46l_d3k3rbm2g4b40000gn/T/chromatic--18150-WT4AAACKKfe3
 info => Loading presets
 info => Compiling manager..
 info => Compiling preview..
@@ -450,7 +531,7 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
-<s> [webpack.Progress] 10% building 0/18 entries 12/18 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building 0/18 entries 3/18 dependencies 0/3 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
@@ -459,50 +540,44 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/18 entries 15/19 dependencies 0/15 modules
 <s> [webpack.Progress] 10% building 0/18 entries 31/94 dependencies 0/29 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/18 entries 113/146 dependencies 0/72 modules
-<s> [webpack.Progress] 13% building 1/18 entries 115/147 dependencies 2/73 modules
-<s> [webpack.Progress] 13% building 1/18 entries 188/229 dependencies 9/100 modules
-<s> [webpack.Progress] 16% building 2/18 entries 214/246 dependencies 12/119 modules
-<s> [webpack.Progress] 16% building 2/18 entries 401/489 dependencies 37/177 modules
-<s> [webpack.Progress] 19% building 3/18 entries 579/630 dependencies 65/236 modules
-<s> [webpack.Progress] 19% building 3/18 entries 803/900 dependencies 83/286 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1100/1195 dependencies 95/349 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1178/1200 dependencies 99/390 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1344/1644 dependencies 173/400 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1500/1819 dependencies 174/511 modules
-<s> [webpack.Progress] 19% building 3/18 entries 2100/2480 dependencies 216/628 modules
-<s> [webpack.Progress] 22% building 4/18 entries 2260/2649 dependencies 261/719 modules
-<s> [webpack.Progress] 22% building 4/18 entries 2643/2800 dependencies 273/842 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3160/3200 dependencies 306/875 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3400/3417 dependencies 338/936 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3437/3600 dependencies 342/940 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3900/3983 dependencies 370/960 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4200/4250 dependencies 444/989 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4269/4389 dependencies 500/1029 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4400/4449 dependencies 553/1030 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4600/4651 dependencies 699/1065 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4887/5000 dependencies 846/1144 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4987/5100 dependencies 875/1183 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5426/5479 dependencies 989/1300 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5800/6021 dependencies 1100/1459 modules
-<s> [webpack.Progress] 22% building 4/18 entries 6014/6100 dependencies 1159/1581 modules
-<s> [webpack.Progress] 23% building 4/18 entries 6142/6193 dependencies 1228/1600 modules
-<s> [webpack.Progress] 24% building 4/18 entries 6250/6300 dependencies 1346/1615 modules
-<s> [webpack.Progress] 25% building 4/18 entries 6400/6451 dependencies 1408/1638 modules
-<s> [webpack.Progress] 26% building 4/18 entries 6600/6632 dependencies 1478/1659 modules
-<s> [webpack.Progress] 27% building 5/18 entries 6778/6784 dependencies 1598/1699 modules
-<s> [webpack.Progress] 28% building 6/18 entries 6778/6784 dependencies 1599/1699 modules
-<s> [webpack.Progress] 31% building 7/18 entries 6778/6784 dependencies 1600/1699 modules
-<s> [webpack.Progress] 34% building 8/18 entries 6778/6784 dependencies 1601/1699 modules
-<s> [webpack.Progress] 37% building 9/18 entries 6778/6784 dependencies 1602/1699 modules
-<s> [webpack.Progress] 40% building 10/18 entries 6778/6784 dependencies 1603/1699 modules
-<s> [webpack.Progress] 43% building 11/18 entries 6778/6784 dependencies 1604/1699 modules
-<s> [webpack.Progress] 46% building 12/18 entries 6778/6784 dependencies 1605/1699 modules
-<s> [webpack.Progress] 49% building 13/18 entries 6778/6784 dependencies 1606/1699 modules
-<s> [webpack.Progress] 52% building 14/18 entries 6820/6834 dependencies 1633/1711 modules
-<s> [webpack.Progress] 55% building 15/18 entries 6944/6953 dependencies 1702/1753 modules
-<s> [webpack.Progress] 58% building 16/18 entries 6944/6953 dependencies 1702/1753 modules
-<s> [webpack.Progress] 61% building 17/18 entries 6958/6959 dependencies 1725/1758 modules
+<s> [webpack.Progress] 10% building 0/18 entries 89/146 dependencies 0/52 modules
+<s> [webpack.Progress] 13% building 1/18 entries 93/147 dependencies 2/55 modules
+<s> [webpack.Progress] 16% building 2/18 entries 217/249 dependencies 13/121 modules
+<s> [webpack.Progress] 16% building 2/18 entries 400/459 dependencies 37/176 modules
+<s> [webpack.Progress] 16% building 2/18 entries 429/629 dependencies 44/191 modules
+<s> [webpack.Progress] 19% building 3/18 entries 585/640 dependencies 65/237 modules
+<s> [webpack.Progress] 19% building 3/18 entries 920/1000 dependencies 82/313 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1200/1269 dependencies 129/366 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1252/1270 dependencies 138/400 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1400/1996 dependencies 173/463 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1554/1996 dependencies 203/512 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1800/1996 dependencies 219/550 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2300/2712 dependencies 271/688 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2800/2931 dependencies 279/861 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3200/3290 dependencies 320/871 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3800/3908 dependencies 362/959 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4221/4262 dependencies 456/1000 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4507/4600 dependencies 649/1054 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4900/4993 dependencies 830/1143 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5090/5200 dependencies 901/1193 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5500/5591 dependencies 1029/1323 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5953/6000 dependencies 1114/1567 modules
+<s> [webpack.Progress] 23% building 4/18 entries 6207/6267 dependencies 1199/1600 modules
+<s> [webpack.Progress] 24% building 4/18 entries 6258/6272 dependencies 1300/1619 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6479/6500 dependencies 1419/1646 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6780/6787 dependencies 1603/1699 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6780/6787 dependencies 1604/1699 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6780/6787 dependencies 1605/1699 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6780/6787 dependencies 1606/1699 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6780/6787 dependencies 1607/1699 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6780/6787 dependencies 1608/1699 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6780/6787 dependencies 1609/1699 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6780/6787 dependencies 1610/1699 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6780/6787 dependencies 1611/1699 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6820/6834 dependencies 1635/1711 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6941/6946 dependencies 1699/1753 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6941/6946 dependencies 1699/1753 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6959/6960 dependencies 1730/1758 modules
 <s> [webpack.Progress] 64% building 18/18 entries 6962/6962 dependencies 1759/1759 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -604,40 +679,40 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (1.03 min)
+info => Manager built (47 s)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.1ba77e44.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.1ba77e44.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.37db7d47.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.37db7d47.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.f147146c.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.f147146c.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.76b1a1e4.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.76b1a1e4.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.5a49fcb3.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.5a49fcb3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3d55ae57.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3d55ae57.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.8bf131e3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.8bf131e3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.a089eaad.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.a089eaad.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.386a73cd.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.386a73cd.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.6f361c5e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.6f361c5e.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.315250e6.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.315250e6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.3170b4b6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.3170b4b6.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.315250e6.iframe.bundle.js attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.315250e6.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.3170b4b6.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.3170b4b6.iframe.bundle.js attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
@@ -648,8 +723,8 @@ info => Manager built (1.03 min)
 <s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.e5520983.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.e5520983.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.0de8b354.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.0de8b354.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.c414d6b9.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.c414d6b9.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
@@ -698,12 +773,14 @@ info => Manager built (1.03 min)
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (1.23 min)
+info => Preview built (1.02 min)
 WARN /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/app/components/task-list.component copy.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN /Users/bulksms-rorrick/Documents/Storybook/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
@@ -738,10 +815,10 @@ WARN   main (3.26 MiB)
 WARN       runtime~main.c414d6b9.iframe.bundle.js
 WARN       802.893c78e6.iframe.bundle.js
 WARN       main.css
-WARN       main.e5520983.iframe.bundle.js
+WARN       main.0de8b354.iframe.bundle.js
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: /var/folders/z5/3hqjs09j46l_d3k3rbm2g4b40000gn/T/chromatic--14253-BS3V5F44obnL
+info => Output directory: /var/folders/z5/3hqjs09j46l_d3k3rbm2g4b40000gn/T/chromatic--18150-WT4AAACKKfe3
